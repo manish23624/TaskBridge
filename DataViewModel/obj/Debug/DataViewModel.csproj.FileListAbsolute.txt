@@ -1,0 +1,38 @@
+F:\Project\RCMSAPP\RCMSWebAPI\DataViewModel\bin\Debug\DataViewModel.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DataViewModel\bin\Debug\DataViewModel.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.csprojAssemblyReference.cache
+F:\Project\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.dll
+F:\Project\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.pdb
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\bin\Debug\DataViewModel.dll
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\bin\Debug\DataViewModel.pdb
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.dll
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.pdb
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.csprojAssemblyReference.cache
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\bin\Debug\DataViewModel.dll
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\bin\Debug\DataViewModel.pdb
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.csprojAssemblyReference.cache
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.dll
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.pdb
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\bin\Debug\DataViewModel.dll
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\bin\Debug\DataViewModel.pdb
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.csprojAssemblyReference.cache
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.dll
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\DataViewModel\obj\Debug\DataViewModel.pdb
+G:\development\WebAPI\DataViewModel\bin\Debug\DataViewModel.dll
+G:\development\WebAPI\DataViewModel\bin\Debug\DataViewModel.pdb
+G:\development\WebAPI\DataViewModel\obj\Debug\DataViewModel.csproj.CoreCompileInputs.cache
+G:\development\WebAPI\DataViewModel\obj\Debug\DataViewModel.dll
+G:\development\WebAPI\DataViewModel\obj\Debug\DataViewModel.pdb
+G:\development\WebAPI\DataViewModel\obj\Debug\DataViewModel.csprojAssemblyReference.cache
+G:\development\WebAPI\DataViewModel\bin\Debug\FluentValidation.dll
+G:\development\WebAPI\DataViewModel\bin\Debug\FluentValidation.ValidatorAttribute.dll
+G:\development\WebAPI\DataViewModel\bin\Debug\FluentValidation.WebApi.dll
+G:\development\WebAPI\DataViewModel\bin\Debug\Newtonsoft.Json.dll
+G:\development\WebAPI\DataViewModel\bin\Debug\System.Net.Http.Formatting.dll
+G:\development\WebAPI\DataViewModel\bin\Debug\System.Web.Http.dll
+G:\development\WebAPI\DataViewModel\bin\Debug\FluentValidation.xml
+G:\development\WebAPI\DataViewModel\bin\Debug\FluentValidation.WebApi.xml
+G:\development\WebAPI\DataViewModel\bin\Debug\Newtonsoft.Json.xml
+G:\development\WebAPI\DataViewModel\bin\Debug\System.Net.Http.Formatting.xml
+G:\development\WebAPI\DataViewModel\bin\Debug\System.Web.Http.xml
+G:\development\WebAPI\DataViewModel\obj\Debug\DataViewModel.csproj.CopyComplete

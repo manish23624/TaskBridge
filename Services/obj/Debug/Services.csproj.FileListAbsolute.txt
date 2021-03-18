@@ -1,0 +1,54 @@
+F:\Project\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Services.dll
+F:\Project\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Services.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\Services\bin\Debug\DataViewModel.dll
+F:\Project\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Repository.dll
+F:\Project\RCMSAPP\RCMSWebAPI\Services\bin\Debug\DataViewModel.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Repository.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.csprojAssemblyReference.cache
+F:\Project\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.csproj.CopyComplete
+F:\Project\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.dll
+F:\Project\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.pdb
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Services.dll
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Services.pdb
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\DataViewModel.dll
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Repository.dll
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\DataViewModel.pdb
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Repository.pdb
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.csprojAssemblyReference.cache
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.csproj.CopyComplete
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.dll
+F:\Project\September\Live APP\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.pdb
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Services.dll
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Services.pdb
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\DataViewModel.dll
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Repository.dll
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\DataViewModel.pdb
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Repository.pdb
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.csprojAssemblyReference.cache
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.csproj.CopyComplete
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.dll
+F:\Project\December\1 Dec 2020\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.pdb
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Services.dll
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Services.pdb
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\DataViewModel.dll
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Repository.dll
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\DataViewModel.pdb
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\bin\Debug\Repository.pdb
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.csprojAssemblyReference.cache
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.csproj.CopyComplete
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.dll
+F:\Project\2021\January\04 January 2021\RCMS_App_Working\RCMSAPP\RCMSAPP\RCMSWebAPI\Services\obj\Debug\Services.pdb
+G:\development\WebAPI\Services\bin\Debug\Services.dll
+G:\development\WebAPI\Services\bin\Debug\Services.pdb
+G:\development\WebAPI\Services\bin\Debug\DataViewModel.dll
+G:\development\WebAPI\Services\bin\Debug\Repository.dll
+G:\development\WebAPI\Services\bin\Debug\DataViewModel.pdb
+G:\development\WebAPI\Services\bin\Debug\Repository.pdb
+G:\development\WebAPI\Services\obj\Debug\Services.csprojAssemblyReference.cache
+G:\development\WebAPI\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+G:\development\WebAPI\Services\obj\Debug\Services.csproj.CopyComplete
+G:\development\WebAPI\Services\obj\Debug\Services.dll
+G:\development\WebAPI\Services\obj\Debug\Services.pdb
+G:\development\WebAPI\Services\bin\Debug\FluentValidation.ValidatorAttribute.dll
+G:\development\WebAPI\Services\bin\Debug\FluentValidation.dll
+G:\development\WebAPI\Services\bin\Debug\FluentValidation.xml

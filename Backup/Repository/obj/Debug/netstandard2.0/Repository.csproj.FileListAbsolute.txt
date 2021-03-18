@@ -1,0 +1,11 @@
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\bin\Debug\netstandard2.0\Repository.dll
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\bin\Debug\netstandard2.0\Repository.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\bin\Debug\netstandard2.0\Models.dll
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\bin\Debug\netstandard2.0\Models.pdb
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\obj\Debug\netstandard2.0\Repository.dll
+F:\Project\RCMSAPP\RCMSWebAPI\Repository\obj\Debug\netstandard2.0\Repository.pdb
